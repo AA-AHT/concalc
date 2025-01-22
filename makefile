@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall
-TARGET = main.exe
+TARGET = concalc.exe
 
 
 all: $(TARGET)
